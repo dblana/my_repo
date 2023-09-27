@@ -1,2 +1,2 @@
 # my_repo
- An example repository
+The best repository in the world!
